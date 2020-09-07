@@ -1,7 +1,5 @@
 # Data-Visualization
-I had done this course in order to learn the basics of Data Visualization, data analytics in Python using pycharm, you can also use jupyter notebook. 
-
-You can find this course on Udemy
+I had done this course in order to learn the basics of Data Visualization, data analytics in Python using pycharm, you can also use jupyter notebook. You can find this course on Udemy
 
 https://www.udemy.com/course/learn-data-analytics-complete-bootcamp-by-takenmind/
 
